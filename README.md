@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+ubiquiti-unifi-design-center
+# Unbiquiti UniFi Design Center
 
-Based on "ABC" at https://www.abc.com/
+Based on "Introducing: Ubiquiti UniFi Design Center (2021)" at https://www.youtube.com/watch?v=vd3LKA6zRtw
 
 ## 100 - Introduction
 
