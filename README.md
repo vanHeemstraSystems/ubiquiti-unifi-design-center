@@ -19,6 +19,8 @@ Based on "Welcome to the UniFi Design Center - Build your UniFi system in minute
 
 Based on "Design Center - Zanger 4" at https://design.ui.com/projects/0cba8d0a-cf28-431a-851b-7cc99678d44c/plans/8e2a8c70-7f75-46ed-932e-e2c58bb8fdeb
 
+Based on "Unifi Design Center- How to Use It" at https://www.youtube.com/watch?v=FuB-wynBphw
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
