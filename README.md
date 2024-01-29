@@ -9,6 +9,10 @@ Based on "UniFi Design Center" at https://account.ui.com/
 
 Based on "UniFi Dream Machine review" at https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md **NOTE**: May be well out of date as it is of 3 years ago.
 
+Based on "Getting Started" at https://help.ui.com/hc/en-us/categories/6583256751383
+
+Based on "Introduction to UniFi" at https://help.ui.com/hc/en-us/articles/360012192813-Introduction-to-UniFi
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
