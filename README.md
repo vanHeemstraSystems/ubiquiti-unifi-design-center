@@ -15,6 +15,8 @@ Based on "Introduction to UniFi" at https://help.ui.com/hc/en-us/articles/360012
 
 Based on "Home Assistant with Ubiquiti UniFi Network" at https://github.com/vanHeemstraSystems/home-assistant-with-ubiquiti-unifi-network
 
+Based on "Welcome to the UniFi Design Center - Build your UniFi system in minutes" at https://design.ui.com/wizard
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
