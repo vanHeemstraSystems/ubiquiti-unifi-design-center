@@ -7,7 +7,7 @@ Based on "Secure Home Network - Place APs for Optimal Coverage" at https://baihu
 
 Based on "UniFi Design Center" at https://account.ui.com/
 
-Based on "UniFi Dream Machine review" at https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md
+Based on "UniFi Dream Machine review" at https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md **NOTE**: May be well out of date as it is of 3 years ago.
 
 ## 100 - Introduction
 
