@@ -17,6 +17,8 @@ Based on "Home Assistant with Ubiquiti UniFi Network" at https://github.com/vanH
 
 Based on "Welcome to the UniFi Design Center - Build your UniFi system in minutes" at https://design.ui.com/wizard
 
+Based on "Design Center - Zanger 4" at https://design.ui.com/projects/0cba8d0a-cf28-431a-851b-7cc99678d44c/plans/8e2a8c70-7f75-46ed-932e-e2c58bb8fdeb
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
