@@ -1,5 +1,5 @@
 ubiquiti-unifi-design-center
-# Unbiquiti UniFi Design Center
+# Ubiquiti UniFi Design Center
 
 Based on "Introducing: Ubiquiti UniFi Design Center (2021)" at https://www.youtube.com/watch?v=vd3LKA6zRtw
 
